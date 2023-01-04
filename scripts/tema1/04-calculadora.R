@@ -137,9 +137,9 @@ y
 sin(pi/4) + cos(pi/4) -> z
 z
 
-edad <- 30
+edad <- 24
 
-nombre = "Juan Gabriel"
+nombre = "Arianna Ramirez"
 
 HOLA = 1
 hola = 5
