@@ -187,6 +187,9 @@ suma5 <- function(numero){
 }
 
 suma5(3)
+suma5(2)
+suma5(1)
+suma5(0)
 
 ls()
 
